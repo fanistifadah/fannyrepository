@@ -1,4 +1,2 @@
 # fannyrepository
-public static void main (String[]args){
-  System.out.println("Welcome :)");
-  }
+![alt tag](http://www.troll.me/images/brick-tamland/linux-is-so-simple-oh-wait.jpg)
